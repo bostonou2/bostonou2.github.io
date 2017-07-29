@@ -1,14 +1,14 @@
 ---
 layout: page
-title:
+title: Sample List
 ---
 
-<h4>Last Updated: July 25, 2017</h4>
+<h5>Last Updated: July 25, 2017</h5>
 
 {% assign sorted_date = site.samples | sort: "date" %}
 {% assign sorted = sorted_date | sort: "title" %}
 <div>
-  <h2>Available Samples</h2>
+  <h3>Available Samples</h3>
   <ul>
     {% for sample in sorted %}
       {% if page.title != sample.title and sample.num_samples > 0 %}
@@ -20,7 +20,7 @@ title:
 </div>
 
 <div>
-  <h2>Past Samples</h2>
+  <h3>Past Samples</h3>
   <ul>
     {% for sample in sorted %}
       {% if page.title != sample.title and sample.num_samples < 1 %}
