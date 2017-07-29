@@ -10,7 +10,7 @@ title: Samples
   <ul>
     {% for sample in sorted %}
       {% if page.title != sample.title and sample.num_samples > 1 %}
-      <li><a href="{{ sample.url }}">{{ sample.title }} <span style="font-size:0.7em">({{ sample.date | date_to_string }})</span></a></li>
+      <li><a href="{{ sample.url }}">{{ sample.title }} - {{ sample.num_samples }} available <span style="font-size:0.65em">({{ sample.date | date_to_string }})</span></a></li>
       {% endif %}
     {% endfor %}
   </ul>
