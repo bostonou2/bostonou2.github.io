@@ -2,7 +2,7 @@
 title: bostonou
 email: hey@bostonou.com
 description: > # this means to ignore newlines until "baseurl:"
-  My site, probably about whiskey.
+  My site.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bostonou.com" # the base hostname & protocol for your site
 twitter_username: bostonou
@@ -17,14 +17,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-    scope:
-      path: ""
-      type: samples
 
 collections:
-  samples:
-    output: true
-    permalink: /whiskey/:collection/:name
 
 permalink: /blog/:title.html
 
