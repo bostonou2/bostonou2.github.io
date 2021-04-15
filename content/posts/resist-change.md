@@ -2,7 +2,7 @@
 title: "People Don't Resist Change"
 date: 2021-04-14T19:32:55-05:00
 tags:
-- policy
+- rules-and-procedures
 ---
 
 People don't resist change.
