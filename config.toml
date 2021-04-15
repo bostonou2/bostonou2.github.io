@@ -1,4 +1,4 @@
-baseURL = "http://itsachain.com/"
+baseURL = "https://www.itsachain.com/"
 languageCode = "en-us"
 title = "it's a chain"
 theme = "m10c"
