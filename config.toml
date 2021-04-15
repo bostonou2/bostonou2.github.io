@@ -7,3 +7,6 @@ theme = "m10c"
   author = "Jonathan Boston"
   description = "Your agency is only as profitable as its weakest link."
   avatar = "chain.jpeg"
+
+[taxonomies]
+  tag = "tags"
