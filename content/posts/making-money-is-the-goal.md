@@ -1,9 +1,13 @@
 ---
-title: "Only One Goal"
+title: "Making Money Is The Goal"
 date: 2021-04-15T12:50:40-05:00
 draft: true
 tags:
 - revenue
+
+focus: "Demonstrate  that 'making money' means we take care of customers, employees, and owners."
+outcome: "Shared language and understanding around what it means to say, 'The goal is to make money.'"
+importance: "There are many possible objections to The Goal, so we need to overcome each one."
 ---
 
 The goal of your agency is to make money, both now and in the future.
