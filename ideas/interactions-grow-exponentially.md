@@ -10,3 +10,4 @@ outcome: ""
 importance: ""
 ---
 
+https://www.oreilly.com/library/view/the-agile-developers/9781787280205/fcce9133-2ea0-4e5b-83a7-399059f7e6c4.xhtml
