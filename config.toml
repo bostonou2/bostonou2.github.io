@@ -1,9 +1,0 @@
-baseURL = "http://itsachain.com/"
-languageCode = "en-us"
-title = "it's a chain"
-theme = "m10c"
-
-[params]
-  author = "Jonathan Boston"
-  description = "Your agency is only as profitable as its weakest link."
-  avatar = "chain.jpeg"
